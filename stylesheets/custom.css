@@ -1,0 +1,225 @@
+/*General-rules*/
+#responsive-menu-button > img {height: 40px; position:fixed; right: 0; top: 0; width: 40px; z-index: 10000;}
+
+.flags { border-radius: 1000px; width:80px; height:80px; margin-top: 50px;}
+
+.greek {font-size: 25px;}
+
+.english {font-size: 25px;}
+/*=========================================================================================*/
+
+/*Page-wrapper-1*/
+
+.page-wrapper-1 { background-image: url('../images/top2.jpg'); text-align: center; padding-top: 180px; padding-bottom: 0px;}
+
+
+/*========================================================================================*/
+
+/*Page-wrapper-2*/
+
+.page-wrapper-2 { background: #f0f0f0; padding-top:50px; padding-bottom: 50px; text-align: center;}
+
+.page-wrapper-2 a {text-decoration: none;}
+
+.skills {padding-top: 50px;}
+
+/*=======================================================================================*/
+
+/*Page-wrapper-3*/
+
+.page-wrapper-3 { background: #fff; padding-top:50px; padding-bottom: 50px; text-align: center;}
+
+.page-wrapper-3 .title { font-size: 30px;}
+
+.page-wrapper-3 a { font-size: 20px; text-decoration: none; color: #3e4553; margin-bottom: 50px;}
+
+.page-wrapper-3 a:hover { color: #d3d5db;}
+
+/*=======================================================================================*/
+
+/*Footer*/
+
+#footer{background: #3e4553; padding-top: 50px; padding-bottom: 50px; text-align: center;}
+
+#footer h2 { color: #fff; }
+
+#footer h3 { color: #fff; }
+
+#footer {color:#fff;}
+
+#footer img {border-radius: 1000px; border: 3px solid #f0f0f0;}
+
+#footer a {text-decoration: none; color: #fff;}
+
+.social-media {padding-top: 40px; padding-bottom: 40px;}
+
+.social-media img{width:50px; height: 50px;}
+
+.information {padding-bottom: 20px;}
+
+.information img{width:200px; height: 200px;}
+
+#footer .mail {border-radius: none; border: 0px;}
+
+.email { font-size: 24px;}
+
+.profile {height:80px; width:80px;}
+
+
+/** Jquery & Plug-ins CSS **/
+/**================================================================================**/
+.logo { width:300px; height: 240px; margin-bottom: -40px;}
+
+.sidr{
+	display:none;position:absolute;position:fixed;top:0;height:100%;z-index:999999;width:260px;overflow-x:none;overflow-y:auto;font-family:"lucida grande",tahoma,verdana,arial,sans-serif;font-size:15px;background:#2c3e50;color:#fff;-webkit-box-shadow:inset 0 0 5px 5px #222;-moz-box-shadow:inset 0 0 5px 5px #222;box-shadow:inset 0 0 5px 5px #222}.sidr .sidr-inner{padding:0 0 15px}.sidr .sidr-inner>p{margin-left:15px;margin-right:15px}.sidr.right{left:auto;right:-260px}.sidr.left{left:-260px;right:auto}.sidr h1,.sidr h2,.sidr h3,.sidr h4,.sidr h5,.sidr h6{font-size:11px;font-weight:normal;padding:0 15px;margin:0 0 5px;color:#fff;line-height:24px;background-image:-webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #4d4d4d), color-stop(100%, #1a1a1a));background-image:-webkit-linear-gradient(#4d4d4d,#1a1a1a);background-image:-moz-linear-gradient(#4d4d4d,#1a1a1a);background-image:-o-linear-gradient(#4d4d4d,#1a1a1a);background-image:linear-gradient(#4d4d4d,#1a1a1a);-webkit-box-shadow:0 5px 5px 3px rgba(0,0,0,0.2);-
+moz-box-shadow:0 5px 5px 3px rgba(0,0,0,0.2);box-shadow:0 5px 5px 3px rgba(0,0,0,0.2)}.sidr p{font-size:13px;margin:0 0 12px}.sidr p a{color:rgba(255,255,255,0.9)}.sidr>p{margin-left:15px;margin-right:15px}.sidr ul{display:block;margin:0 0 15px;padding:0;border-top:1px solid #1a1a1a;border-bottom:1px solid #4d4d4d}.sidr ul li{display:block;margin:0;line-height:48px;border-top:1px solid #4d4d4d;border-bottom:1px solid #1a1a1a}.sidr ul li:hover,.sidr ul li.active,.sidr ul li.sidr-class-active{border-top:none;line-height:49px}.sidr ul li:hover>a,.sidr ul li:hover>span,.sidr ul li.active>a,.sidr ul li.active>span,.sidr ul li.sidr-class-active>a,.sidr ul li.sidr-class-active>span{-webkit-box-shadow:inset 0 0 15px 3px #222;-moz-box-shadow:inset 0 0 15px 3px #222;box-shadow:inset 0 0 15px 3px #222}.sidr ul li a,.sidr ul li span{padding:0 15px;display:block;text-decoration:none;color:#fff}.sidr ul li ul{border-bottom:none;margin:0}.sidr ul li ul li{line-height:40px;font-size:13px}.sidr ul li ul li:last-child{border-
+bottom:none}.sidr ul li ul li:hover,.sidr ul li ul li.active,.sidr ul li ul li.sidr-class-active{border-top:none;line-height:41px}.sidr ul li ul li:hover>a,.sidr ul li ul li:hover>span,.sidr ul li ul li.active>a,.sidr ul li ul li.active>span,.sidr ul li ul li.sidr-class-active>a,.sidr ul li ul li.sidr-class-active>span{-webkit-box-shadow:inset 0 0 15px 3px #222;-moz-box-shadow:inset 0 0 15px 3px #222;box-shadow:inset 0 0 15px 3px #222}.sidr ul li ul li a,.sidr ul li ul li span{color:rgba(255,255,255,0.8);padding-left:30px}.sidr form{margin:0 15px}.sidr label{font-size:13px}.sidr input[type="text"],.sidr input[type="password"],.sidr input[type="date"],.sidr input[type="datetime"],.sidr input[type="email"],.sidr input[type="number"],.sidr input[type="search"],.sidr input[type="tel"],.sidr input[type="time"],.sidr input[type="url"],.sidr textarea,.sidr select{width:100%;font-size:13px;padding:5px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:0 0 10px;-webkit-border-radius:
+2px;-moz-border-radius:2px;-ms-border-radius:2px;-o-border-radius:2px;border-radius:2px;border:none;background:rgba(0,0,0,0.1);color:rgba(255,255,255,0.6);display:block;clear:both}.sidr input[type=checkbox]{width:auto;display:inline;clear:none}.sidr input[type=button],.sidr input[type=submit]{color:#333;background:#fff}.sidr input[type=button]:hover,.sidr input[type=submit]:hover{background:rgba(255,255,255,0.9)
+}
+
+.rslides{margin-bottom: -40px;}
+
+#mobile-header {
+    display: none;
+    z-index: 99999;
+    margin-bottom: -60px;
+}
+
+.menu {
+	z-index:10;	
+	color: #e0e0e0; 
+	height: 40px;
+    display:block;
+    top:0;
+    left:0;
+	clear: both;
+	text-align: center;
+}
+
+.menu ul {
+	z-index:0;
+	position: relative;
+	height: auto;
+    top:0;
+    left:0;
+	clear: both;
+	font-size: 14px;
+	width: 100%;
+	overflow: none;
+}
+
+.menu ul li {
+	display: inline;
+	position: relative;
+}
+
+.menu ul li a {
+	display: inline-block;
+	line-height: 40px;
+	padding:  0 14px;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: none;
+	letter-spacing: 0.08em;
+	margin-top: 40px;
+}
+
+.menu ul li a:hover {
+	background: #ecf0f1;
+	color: #2c3e50;
+	cursor: pointer;
+}
+
+.menu ul li:hover ul {
+	background: #2c3e50;
+}
+
+@media only screen and (max-width: 767px){
+    #mobile-header {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 767px){
+	#navigation {
+		visibility: hidden;
+	}
+}
+
+/*SUB-MENU
+==================================================*/
+.menu ul ul {
+	padding-top: 10px;
+	top:30px;
+	opacity: 0; 
+  	filter: alpha(opacity=0);
+	position: absolute;
+	top:100%;
+	left: 0;
+	z-index: 9999999;
+	height: 0px;
+	width: 100%;
+	margin-top: 0;
+	margin-left:0;
+	-webkit-transition: opacity 0.4s ease-out;
+	-moz-transition: opacity 0.4s ease-out;
+	-o-transition: opacity 0.4s ease-out;
+	-ms-transition: opacity 0.4s ease-out;
+	transition: opacity 0.4s ease-out;
+	-webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);	
+}
+
+.menu ul li span {
+	display: none;
+}
+
+.menu ul li:hover ul {
+	opacity: 10; 
+  	filter: alpha(opacity=100); 
+  	
+	height: auto;
+	overflow: auto;
+}
+
+.menu ul ul li {
+	float: none;
+	width: 100%;
+	/*border-bottom: 1px solid #ecf0f1;*/
+}
+
+.menu ul ul li a {
+	display: block;
+	line-height: 35px;
+	text-transform: none;
+}
+
+.menu ul li:hover > a {
+	background: #ecf0f1;
+	color: #2c3e50;
+	border-radius: 2px;
+}
+
+.lb-number{
+	visibility: hidden;
+}
+
+
+
+#toTop {
+	width:100px;
+        border:1px solid #ccc;
+        background:#f7f7f7;
+        text-align:center;
+        padding:5px;
+        position:fixed; /* this is the magic */
+        bottom:10px; /* together with this to put the div at the bottom*/
+        right:10px;
+        cursor:pointer;
+        display:none;
+        color:#333;
+        font-family:verdana;
+        font-size:11px;
+        border-radius: 1000px;
+}
